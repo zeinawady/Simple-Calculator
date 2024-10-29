@@ -1,0 +1,21 @@
+body{
+    background-color:#EAF4FC ;
+}
+
+.container{
+    max-width: 400px;
+    height: 100vh;
+}
+.calculator{
+    background-color:#3a4452;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.calculator form input{
+    border: 0;
+    outline: 0;
+    width: 60px;
+    height: 60px;
+    border-radius: ;
+}

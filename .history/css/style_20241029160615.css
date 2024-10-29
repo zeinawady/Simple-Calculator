@@ -1,0 +1,13 @@
+body{
+    background-color:#EAF4FC ;
+}
+
+.container{
+    width: 400px;
+}
+.calculator{
+    background-color:#3a4452;
+    padding: 10px;
+    border-radius: 10px;
+
+}
